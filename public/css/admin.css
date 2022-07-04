@@ -1,0 +1,138 @@
+.price-list ul {
+    padding: 0px;
+    list-style: none;
+}
+
+.price-gd-top {
+    /* background: #00acee; */
+    text-align: center;
+}
+
+.price-gd-top h4 {
+    font-size: 1.7em;
+
+    padding: 0.4em 1em;
+    /* background: #0e99ce; */
+    font-weight: 300;
+}
+
+.price-gd-top h3 {
+    padding: 0.2em 0em 0.1em 0em;
+    font-size: 2.5em;
+    color: #fff;
+}
+
+.price-gd-top h5 {
+    font-size: 1em;
+    color: #fff;
+    padding: 0.2em 0em 0.8em 0em;
+}
+
+.price-gd-bottom {
+    text-align: center;
+    padding: 1em 0em;
+    border-radius: 50px;
+}
+
+.price-gd-top.pric-clr2 h4 {
+    background: #d4b906;
+}
+
+
+
+.price-list ul li {
+    padding: 0.5em 0em;
+    font-size: 0.9em;
+    color: #999999;
+    border-bottom: 1px dotted #ddd;
+}
+
+.price-selet {
+    padding: 1em 0em;
+    text-align: center;
+}
+
+.price-selet a {
+    font-size: 1.1em;
+    color: #fff;
+    display: block;
+}
+
+.price-selet a {
+    font-size: 0.9em;
+    color: #ffffff;
+    display: inline-block;
+    padding: 0.5em 2em;
+    background: #cb1e1e;
+    text-decoration: none;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+.price-block {
+    box-shadow: 0px 4px 20px rgb(0, 0, 0.5);
+    border-radius: 50px;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    background-color: white;
+}
+
+.price-block:hover,
+.ptblayouts-pricing:hover,
+.w3-agileits-vpn-grid:hover {
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    z-index: 1;
+}
+
+
+.garis-judul {
+    width: auto;
+    border: 3px solid #d81f1f;
+}
+
+.garis-harga {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #d81f1f;
+}
+
+.dollar-sign {
+    font-size: 17px;
+    vertical-align: super;
+}
+
+.price-meta {
+    font-size: 17px;
+    vertical-align: bottom;
+}
+
+.price-grid {
+    width: 280px;
+}
+
+.kotak-portofolio {
+    position: relative;
+    width: auto;
+    height: auto;
+    background: #f5f0f0;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.5);
+    border-radius: 50px;
+}
+
+.tombol-paket {
+    margin-top: 30px;
+    background: #2df029;
+}
+
+.center {
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
